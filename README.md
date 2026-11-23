@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ganesh
 
 Computer Science Student
-<img align="right" width="350"
+<img align="right" width="370"
 src="https://cdn.dribbble.com/userupload/41869260/file/original-a181a8c6c451aa6b5fdea7808802005b.gif" />
                                   
 - 🌱 I’m currently learning Full Stack in Java and Integrating AI to my workflow

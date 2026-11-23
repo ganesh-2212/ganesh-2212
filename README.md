@@ -1,7 +1,9 @@
 ## Hi there 👋 It's me Ganesh
 
 Computer Science Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                       
+<img align="right" width="350"
+src="https://cdn.dribbble.com/userupload/41869260/file/original-a181a8c6c451aa6b5fdea7808802005b.gif" />
+                                  
 - 🌱 I’m currently learning Full Stack in Java and Integrating AI to my workflow
 - Engineeing at SMVEC
 - ⚡ Fun fact: I love to Sketch.

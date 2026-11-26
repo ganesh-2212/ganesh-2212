@@ -4,9 +4,9 @@ Computer Science Student
 <img align="right" width="370"
 src="https://cdn.dribbble.com/userupload/41869260/file/original-a181a8c6c451aa6b5fdea7808802005b.gif" />
                                   
-- 🌱 I’m currently learning Full Stack in Java and Integrating AI to my workflow
+- I’m currently learning Full Stack in Java and Integrating AI to my workflow
 - Engineeing at SMVEC
-- ⚡ Fun fact: I love to Sketch.
+- Fun fact: I love to Sketch.
 
 
 ### I code in
